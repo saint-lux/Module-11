@@ -1,8 +1,16 @@
 # Forecasting Net Prophet
 
-You’re a growth analyst at [MercadoLibre](http://investor.mercadolibre.com/investor-relations). With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. You've been tasked with analyzing the company's financial and user data in clever ways to make the company grow. So, you want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+> NOTE: 
+> * Use `Google Colabs` to run the analysis notebook `forecasting_net_prophet.ipynb`
+> * Change runtime to `GPU` as shown below:
+>   * Select `'Runtime'` > `'Change runtime type'`
+> <img src="ref_imgs/GPU-Setting.png" width="350" title="hover text">
 
-Instructions
+___
+You’re a growth analyst at [MercadoLibre](http://investor.mercadolibre.com/investor-relations). With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. You've been tasked with analyzing the company's financial and user data in clever ways to make the company grow. So, you want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+___
+
+## Instructions
 
 This section divides the instructions for this Challenge into four steps and an optional fifth step, as follows:
 
